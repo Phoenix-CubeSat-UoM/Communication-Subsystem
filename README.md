@@ -23,7 +23,8 @@ Weather balloons can soar up to **30+ km** above the Earth — and we stay conne
 
 ## 🚀 Why Join?
 
-Whether you're **just starting out** or seeking to **deepen your expertise** in wireless systems, this program offers a unique, immersive experience to:
+Whether you're **just starting out** or seeking to **deepen your expertise** in wireless systems, this prog![diagram](https://github.com/user-attachments/assets/b6e1588f-3139-4146-869b-9f4e7db70827)
+ram offers a unique, immersive experience to:
 
 - Apply classroom theory in **practical fieldwork**
 - Gain exposure to **cutting-edge communication tools**
